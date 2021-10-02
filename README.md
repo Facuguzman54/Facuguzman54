@@ -1,5 +1,8 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Angular and Reactjs
+- 🔭 I’m currently working whit AccessGo
+- 🤔 I’m looking for help with make projects to learn more
+- 📫 How to reach me: facundoguzman54@gmail.com
 <!--
 **Facuguzman54/Facuguzman54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
