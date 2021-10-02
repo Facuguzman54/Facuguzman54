@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning Angular and Reactjs
 <!--
 **Facuguzman54/Facuguzman54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
