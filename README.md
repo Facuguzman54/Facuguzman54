@@ -14,11 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/florenciastranges" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="florenciastranges" height="30" width="40" /></a>
-</p>
-
-<p align="left">
 <a href="https://www.linkedin.com/in/guzmanfacundo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="facundoguzman" height="30" width="40" /></a>
-  <a href="mailto:facundoguzman54@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="facundoguzman54@gmail.com" height="30" width="40" /></a>
+<a href="mailto:facundoguzman54@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="facundoguzman54@gmail.com" height="30" width="40" /></a>
 </p>
 
