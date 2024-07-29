@@ -2,7 +2,6 @@
 <h2 align="center">Frontend developer</h2>
 
 - 🌱 I’m currently learning Angular and Reactjs
-- 🔭 I’m currently working whit AccessGo
 - 🤔 I’m looking for help with make projects to learn more
 
 <h3 align="left">Languages and Tools:</h3>
